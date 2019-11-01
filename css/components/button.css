@@ -1,0 +1,50 @@
+.button { 
+	padding: 0 10px;
+  text-decoration: none;
+  border: 1px solid #5094f2;
+  cursor: pointer;
+  background-color: #5094f2;
+  max-height: 50px;
+  max-width: 253px;
+}
+
+.button-link {
+  color: #ffffff;
+  font-size: 31px;
+  font-weight: 300;
+  line-height: 61.77px;
+  }
+
+.button-link:hover {
+  background-color: #ffffff;
+  color: #5094f2;
+  border-color: #ffffff;
+  text-decoration: none;
+}
+
+.button-sign {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media (max-width: 640px) {
+  .button {
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 640px) {
+  .button {
+    margin: 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .button-link {
+    font-size: 20px;
+    }
+}

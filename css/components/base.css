@@ -1,0 +1,66 @@
+*, *::after, *::before {
+	box-sizing: border-box;
+}
+
+html {	
+	font-family: "Segoe WPN";
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 36px;
+	background-color:#ffffff;
+	color: #909090;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+a, .link {
+	color: #6c6c6c;
+	text-decoration: none;
+}
+
+a:hover, .link:hover {
+	color: #5094f2;
+	text-decoration: underline;
+} 
+
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+p, ul, ol, figure {
+	margin: 0;
+}
+
+* + p, * + ul, * + ol, * + figure {
+	margin-top: 0;	
+}
+
+ul > li > ol,
+ul > li > ul,
+ol > li > ol,
+ol > li > ul {
+	margin: 0;
+	padding-left: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+* + h1, * + h2, * + h3, * + h4, * + h5, * + h6  {
+	margin-top: 0;	
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+	color: #000000;
+	font-size: 42px;
+	font-weight: 300;
+	letter-spacing: 0.42px;
+}

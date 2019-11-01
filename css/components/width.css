@@ -1,0 +1,196 @@
+.width-1-1 {
+  width: 100%;
+}
+.width-1-2 {
+  width: 50%;
+}
+.width-1-3 {
+  width: 33.33%;
+}
+.width-1-4 {
+  width: 25%;
+}
+.width-1-5 {
+  width: 20%;
+}
+.width-2-3 {
+  width: 66.66%;  
+}
+.width-2-5 {
+  width: 40%;
+}
+.width-3-4 {
+  width: 75%;
+}
+.width-3-5 {
+  width: 60%;
+}
+.width-4-5 {
+  width: 80%;
+}
+
+
+@media (min-width: 480px) {
+  .width-1-1xs {
+    width: 100%;
+  }
+  .width-1-2xs {
+    width: 50%;
+  }
+  .width-1-3xs {
+    width: 33.33%;
+  }
+  .width-1-4xs {
+    width: 25%;
+  }
+  .width-1-5xs {
+    width: 20%;
+  }
+  .width-2-3xs {
+    width: 66.66%;  
+  }
+  .width-2-5xs {
+    width: 40%;
+  }
+  .width-3-4xs {
+    width: 75%;
+  }
+  .width-3-5xs {
+    width: 60%;
+  }
+  .width-4-5xs {
+    width: 80%;
+  }
+}
+
+@media (min-width: 640px) {
+  .width-1-1sm {
+    width: 100%;
+  }
+  .width-1-2sm {
+    width: 50%;
+  }
+  . {
+    width: 33.33%;
+  }
+  .width-1-4sm {
+    width: 25%;
+  }
+  .width-1-5sm {
+    width: 20%;
+  }
+  .width-2-3sm {
+    width: 66.66%;  
+  }
+  .width-2-5sm {
+    width: 40%;
+  }
+  .width-3-4sm {
+    width: 75%;
+  }
+  .width-3-5sm {
+    width: 60%;
+  }
+  .width-4-5sm {
+    width: 80%;
+  }
+}
+
+@media (min-width: 960px) {
+  .width-1-1md {
+    width: 100%;
+  }
+  .width-1-2md {
+    width: 50%;
+  }
+  .width-1-3md {
+    width: 33.33%;
+  }
+  .width-1-4md {
+    width: 25%;
+  }
+  .width-1-5md {
+    width: 20%;
+  }
+  .width-2-3md {
+    width: 66.66%;  
+  }
+  .width-2-5md {
+    width: 40%;
+  }
+  .width-3-4md {
+    width: 75%;
+  }
+  .width-3-5md {
+    width: 60%;
+  }
+  .width-4-5md {
+    width: 80%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .width-1-1lg {
+    width: 100%;
+  }
+  .width-1-2lg {
+    width: 50%;
+  }
+  .width-1-3lg {
+    width: 33.33%;
+  }
+  .width-1-4lg {
+    width: 25%;
+  }
+  .width-1-5lg {
+    width: 20%;
+  }
+  .width-2-3lg {
+    width: 66.66%;  
+  }
+  .width-2-5lg {
+    width: 40%;
+  }
+  .width-3-4lg {
+    width: 75%;
+  }
+  .width-3-5lg {
+    width: 60%;
+  }
+  .width-4-5lg {
+    width: 80%;
+  }
+}
+
+@media (max-width: 1600px) {
+  .width-1-1xl {
+    width: 100%;
+  }
+  .width-1-2xl {
+    width: 50%;
+  }
+  .width-1-3xl {
+    width: 33.33%;
+  }
+  .width-1-4xl {
+    width: 25%;
+  }
+  .width-1-5xl {
+    width: 20%;
+  }
+  .width-2-3xl {
+    width: 66.66%;  
+  }
+  .width-2-5xl {
+    width: 40%;
+  }
+  .width-3-4xl {
+    width: 75%;
+  }
+  .width-3-5xl {
+    width: 60%;
+  }
+  .width-4-5xl {
+    width: 80%;
+  }
+}

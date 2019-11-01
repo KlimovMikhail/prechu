@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 36px;
+  }
+
+@media (min-width: 960px) {
+  .list {
+    font-size: 15px;
+    }
+}
