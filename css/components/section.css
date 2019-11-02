@@ -66,6 +66,15 @@
 
 @media (min-width: 640px) {
   .section-title {
+    font-size: 29px;
+  }
+  .section-subtitle {
+    font-size: 23px;
+  }
+}
+
+@media (min-width: 960px) {
+  .section-title {
     font-size: 42px;
   }
   .section-subtitle {
@@ -73,9 +82,18 @@
   }
 }
 
+@media (min-width: 1200px) {
+  .section-title {
+    font-size: 44px;
+  }
+  .section-subtitle {
+    font-size: 30px;
+  }
+}
+
 @media (min-width: 1600px) {
   .section-title {
-    font-size: 48px;
+    font-size: 47px;
   }
   .section-subtitle {
     font-size: 32px;
