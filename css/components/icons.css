@@ -89,6 +89,12 @@
   }
 }
 
+@media (min-width: 640px) {
+  .back {
+    margin: 0 15px;
+  }
+}
+
 @media (min-width: 960px) {
   .back {
     min-width: 186px;

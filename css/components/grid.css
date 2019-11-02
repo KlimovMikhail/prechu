@@ -16,9 +16,15 @@
             align-items: center;
   }
   
-  .grid > .grid-item { 
+  .grid-hero > .grid-item { 
     padding: 0 8px;
     text-align: left;
+  }
+}
+
+@media (max-width: 960px) {
+  .grid-shop > .grid-item {
+    display: flex;
   }
 }
 
