@@ -10,6 +10,13 @@
   text-decoration: none;
 }
 
+.nav-item:hover {
+  border-bottom: 3px solid #5094f2;
+  padding-bottom: 27px;
+  color: #6c6c6c;
+  text-decoration: none;
+} 
+
 .nav-menu {
   display: none;
 }
