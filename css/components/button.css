@@ -35,6 +35,9 @@
   .button {
     margin: 0 auto;
   }
+  .swiper-button-next, .swiper-button-prev {
+    display: none;
+  }
 }
 
 @media (min-width: 640px) {
